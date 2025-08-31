@@ -1,0 +1,8 @@
+# Operators in Python
+
+a, b = 10, 3
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
+print("Modulus:", a % b)
